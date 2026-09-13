@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Netso — Clean power. Zero upfront cost.",
+      "hasCanvas": false,
+      "bodyTextLen": 4088,
+      "bodyTextHash": "6222789b7eb07003c1c1c53012933cb86f954b64d17e18a96bc83711d6794c26",
+      "bodyTextPrefix": "NETSO The problem The model How it works Savings Talk to Netso A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Netso — Clean power. Zero upfront cost.",
+      "hasCanvas": false,
+      "bodyTextLen": 4011,
+      "bodyTextHash": "52599c460c9087a54f86394fa86fe1e4c474f147faf22893b0d89b243d99a7c9",
+      "bodyTextPrefix": "NETSO ROOFTOP SOLAR AS A SERVICE Clean power. Zero upfront cost.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

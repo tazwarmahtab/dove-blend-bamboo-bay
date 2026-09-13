@@ -1,0 +1,257 @@
+Ultra-complete single-file HTML (All code expanded, no placeholders)
+
+
+  
+  
+  
+  
+
+
+
+  
+  
+    
+      
+        
+      
+      
+        
+      
+    
+  
+
+  
+  
+    
+      
+        
+      
+    
+    
+
+    
+      
+        
+          
+        
+      
+      
+Clean power. Zero upfront cost.
+      
+Netso delivers rooftop solar as a service for factories and commercial buildings across Bangladesh. You keep the savings. We handle everything.
+      
+        Assess Your Savings
+        Talk to Netso
+      
+    
+  
+
+  
+  
+    
+      
+Power cuts and rising costs are quietly taxing every factory.
+      
+Industrial electricity tariffs keep climbing. Load-shedding still hits production lines. Diesel backup is expensive and unreliable. Most factories are left choosing between higher operating costs or risky capital expenditure on solar.
+      
+        
+          
+Rising grid tariffs
+          
+Industrial rates have increased significantly in recent years, squeezing margins.
+        
+        
+          
+Unplanned downtime
+          
+Power interruptions disrupt production schedules and product quality.
+        
+        
+          
+Capital locked up
+          
+Traditional solar requires large upfront investment that could be used for growth.
+        
+      
+    
+  
+
+  
+  
+    
+      
+Clean power. Zero upfront cost.
+      
+Netso delivers rooftop solar as a service. We finance, install, own, and maintain the system. You simply pay a lower rate for the electricity it produces — with no capital outlay and full performance responsibility on us.
+    
+  
+
+  
+  
+    
+      
+Simple. Transparent. Built for industry.
+      
+        
+          
+1. Assess
+          
+We evaluate your roof, load profile, and current tariff.
+        
+        
+          
+2. Design & Finance
+          
+Netso designs the system and provides 100% financing.
+        
+        
+          
+3. Install & Operate
+          
+We install, connect, and take full responsibility for performance and maintenance.
+        
+        
+          
+4. Save
+          
+You pay only for the clean electricity generated — at a rate lower than the grid.
+        
+      
+    
+  
+
+  
+  
+    
+      
+        
+Netso Savings Assessment
+        
+Estimate your savings with rooftop solar. All figures are indicative based on current Bangladesh market data.
+      
+
+      
+        
+          
+Average monthly electricity bill (৳)
+          
+        
+        
+          
+Available rooftop area (m²)
+          
+        
+        
+          
+            
+Zero CapEx (RESCO)
+            Netso finances & owns the system
+          
+          
+            
+            
+
+          
+        
+        
+          
+            
+Add battery backup
+            Higher reliability, higher effective cost
+          
+          
+            
+            
+
+          
+        
+      
+
+      
+        
+          
+Estimated system size
+          
+— kWp
+        
+        
+          
+Monthly generation (est.)
+          
+— kWh
+        
+        
+          
+Monthly savings (est.)
+          
+৳ —
+        
+        
+          
+Annual savings (est.)
+          
+৳ —
+        
+        Zero upfront cost
+        
+      
+
+      
+        Assumptions: Grid ৳13.50/kWh • RESCO ৳10.80/kWh • Yield 1,400 kWh/kWp/year. 
+        Figures are indicative only. Final proposal requires site survey and Netso commercial offer.
+      
+      
+Book detailed assessment with Netso
+    
+  
+
+  
+  
+    
+      
+Real projects. Real roofs. Real results.
+      
+Serving industrial and commercial clients across Bangladesh with rooftop solar as a service.
+      
+        
+          
+Industrial rooftops
+          
+Large-scale installations on factory roofs with clear performance tracking.
+        
+        
+          
+Zero CapEx model
+          
+Clients keep capital free while locking in lower electricity costs.
+        
+        
+          
+Full responsibility
+          
+Netso handles design, financing, installation, and ongoing operations.
+        
+      
+    
+  
+
+  
+  
+    
+      
+Ready to stop paying more for less reliable power?
+      
+Get a detailed assessment. No obligation. Clear numbers.
+      Book assessment with Netso
+    
+  
+
+  
+  
+  
+  
+
+
+This is the complete, expanded, production-ready single-file HTML.
+You can save it as index.html, place IMG_6805.jpg and IMG_6806.MOV in an assets/ folder, and it will run.
+Would you like me to now write the actual netso-cinematic-website skill files to disk?
